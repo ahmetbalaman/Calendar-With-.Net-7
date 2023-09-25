@@ -1,0 +1,15 @@
+/Users/ahmetbalaman/Projects/Calendar/Calendar/bin/Debug/net7.0/Calendar
+/Users/ahmetbalaman/Projects/Calendar/Calendar/bin/Debug/net7.0/Calendar.deps.json
+/Users/ahmetbalaman/Projects/Calendar/Calendar/bin/Debug/net7.0/Calendar.runtimeconfig.json
+/Users/ahmetbalaman/Projects/Calendar/Calendar/bin/Debug/net7.0/Calendar.dll
+/Users/ahmetbalaman/Projects/Calendar/Calendar/bin/Debug/net7.0/Calendar.pdb
+/Users/ahmetbalaman/Projects/Calendar/Calendar/obj/Debug/net7.0/Calendar.csproj.AssemblyReference.cache
+/Users/ahmetbalaman/Projects/Calendar/Calendar/obj/Debug/net7.0/Calendar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetbalaman/Projects/Calendar/Calendar/obj/Debug/net7.0/Calendar.AssemblyInfoInputs.cache
+/Users/ahmetbalaman/Projects/Calendar/Calendar/obj/Debug/net7.0/Calendar.AssemblyInfo.cs
+/Users/ahmetbalaman/Projects/Calendar/Calendar/obj/Debug/net7.0/Calendar.csproj.CoreCompileInputs.cache
+/Users/ahmetbalaman/Projects/Calendar/Calendar/obj/Debug/net7.0/Calendar.dll
+/Users/ahmetbalaman/Projects/Calendar/Calendar/obj/Debug/net7.0/refint/Calendar.dll
+/Users/ahmetbalaman/Projects/Calendar/Calendar/obj/Debug/net7.0/Calendar.pdb
+/Users/ahmetbalaman/Projects/Calendar/Calendar/obj/Debug/net7.0/Calendar.genruntimeconfig.cache
+/Users/ahmetbalaman/Projects/Calendar/Calendar/obj/Debug/net7.0/ref/Calendar.dll
